@@ -19,13 +19,15 @@ Make sure you have the following installed:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/paylocity-api-solution.git
+  git clone https://github.com/yourusername/paylocity-api-solution.git
 
-cd paylocity-api-solution
+Switch to the directory
+
+  cd paylocity-api-solution
 
 Run the Flask API:
 
-python api.py
+  python api.py
 
 In a separate terminal, run the command-line application:
 
@@ -33,7 +35,7 @@ python cli.py --get
 python cli.py --post
 
 
-Usage
-Use the --get flag to retrieve data.
-Use the --post flag to add data.
-Use the --delete flag followed by the object ID to remove a specific resource.
+  Usage:
+  Use the --get flag to retrieve data.
+  Use the --post flag to add data.
+  Use the --delete flag followed by the object ID to remove a specific resource.
