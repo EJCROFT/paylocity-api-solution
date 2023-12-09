@@ -38,4 +38,4 @@ python cli.py --post
   Usage:
   Use the --get flag to retrieve data.
   Use the --post flag to add data.
-  Use the --delete flag followed by the object ID to remove a specific resource.
+  
